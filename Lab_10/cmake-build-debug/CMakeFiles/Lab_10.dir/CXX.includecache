@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/connor/CLionProjects/Lab_10/WordInfo.cpp
+WordInfo.h
+/Users/connor/CLionProjects/Lab_10/WordInfo.h
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+sstream
+-
+map
+-
+unordered_map
+-
+cctype
+-
+algorithm
+-
+
+/Users/connor/CLionProjects/Lab_10/WordInfo.h
+string
+-
+iostream
+-
+unordered_map
+-
+map
+-
+vector
+-
+

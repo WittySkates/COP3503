@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/connor/CLionProjects/Lab_8/Shapes.cpp
+Shapes.h
+/Users/connor/CLionProjects/Lab_8/Shapes.h
+math.h
+-
+string
+-
+iostream
+-
+
+/Users/connor/CLionProjects/Lab_8/Shapes.h
+
+/Users/connor/CLionProjects/Lab_8/main.cpp
+iostream
+-
+iomanip
+-
+Shapes.h
+/Users/connor/CLionProjects/Lab_8/Shapes.h
+

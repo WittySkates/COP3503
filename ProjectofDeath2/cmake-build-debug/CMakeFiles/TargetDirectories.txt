@@ -1,0 +1,3 @@
+/Users/connor/CLionProjects/ProjectofDeath2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/connor/CLionProjects/ProjectofDeath2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/connor/CLionProjects/ProjectofDeath2/cmake-build-debug/CMakeFiles/ProjectofDeath2.dir

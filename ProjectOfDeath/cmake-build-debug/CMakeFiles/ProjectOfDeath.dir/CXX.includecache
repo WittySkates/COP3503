@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/connor/CLionProjects/ProjectOfDeath/LinkedList.cpp
+LinkedList.h
+/Users/connor/CLionProjects/ProjectOfDeath/LinkedList.h
+iostream
+-
+
+/Users/connor/CLionProjects/ProjectOfDeath/LinkedList.h
+iostream
+-
+vector
+-
+string
+-
+
+/Users/connor/CLionProjects/ProjectOfDeath/main.cpp
+LinkedList.h
+/Users/connor/CLionProjects/ProjectOfDeath/LinkedList.h
+iostream
+-
+string
+-
+sstream
+-
+

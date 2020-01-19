@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/connor/CLionProjects/ProjectofDeath2/Header.h
+Pixel.h
+/Users/connor/CLionProjects/ProjectofDeath2/Pixel.h
+iostream
+-
+istream
+-
+string
+-
+vector
+-
+iomanip
+-
+sstream
+-
+fstream
+-
+
+/Users/connor/CLionProjects/ProjectofDeath2/Pixel.h
+
+/Users/connor/CLionProjects/ProjectofDeath2/main.cpp
+Header.h
+/Users/connor/CLionProjects/ProjectofDeath2/Header.h
+Pixel.h
+/Users/connor/CLionProjects/ProjectofDeath2/Pixel.h
+

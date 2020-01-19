@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/connor/CLionProjects/Lab_3/DynamicArray.cpp
+
+/Users/connor/CLionProjects/Lab_3/DynamicArray.h
+iostream
+-
+string
+-
+algorithm
+-
+
+/Users/connor/CLionProjects/Lab_3/main.cpp
+iostream
+-
+vector
+-
+string
+-
+DynamicArray.h
+/Users/connor/CLionProjects/Lab_3/DynamicArray.h
+
